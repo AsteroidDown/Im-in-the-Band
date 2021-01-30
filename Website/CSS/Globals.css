@@ -1,0 +1,12 @@
+
+:root {
+	--global1: #000000;
+	--bodycolor: #F0F0F0;
+	--orange: #FE7701;
+	--blue: #59acff;
+}
+
+body {
+  	background-color: var(--global1);
+  	color: var(--bodycolor);
+}
